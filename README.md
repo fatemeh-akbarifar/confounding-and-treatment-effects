@@ -1,4 +1,6 @@
-# When a helpful treatment looks harmful
+# The Treatment Paradox
+
+*When a helpful treatment looks harmful.*
 
 **A controlled example of how the wrong comparison can reverse an answer.**
 
