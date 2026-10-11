@@ -1,4 +1,4 @@
-# The Treatment Paradox
+# Confounding and Treatment Effects
 
 *When a helpful treatment looks harmful.*
 
