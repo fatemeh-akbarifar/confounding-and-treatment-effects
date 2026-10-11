@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "true_risk_difference": -0.08,
+  "limiting_crude_difference": 0.04728353140916808,
+  "primary_crude": 0.0497381274122749,
+  "primary_standardised": -0.07160643516315957,
+  "randomised_crude": -0.09001436849713104,
+  "randomised_standardised": -0.09092673550414643,
+  "bootstrap_repetitions": 500,
+  "undefined_bootstrap_samples": 0,
+  "seeds": {
+    "primary": 42,
+    "bootstrap": 123,
+    "randomised": 43,
+    "measurement_error": 777
+  },
+  "python": "3.9.13",
+  "numpy": "1.23.5",
+  "pandas": "2.2.3",
+  "matplotlib": "3.9.3",
+  "analysis_sha256": "427d519b019072e01170dabdd1786dbba7ec3cd825bebbb711df545ca64b2989"
+}
